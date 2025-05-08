@@ -1,0 +1,1500 @@
+Run summary (sorted by test accuracy):
+run_4_lr5e-05_bs16: val=0.8652, test=0.8046
+run_2_lr5e-05_bs16: val=0.8627, test=0.7884
+run_4_lr3e-05_bs32: val=0.8235, test=0.7014
+run_3_lr2e-05_bs16: val=0.8456, test=0.4249
+
+Best model: run_4_lr5e-05_bs16
+Worst model: run_3_lr2e-05_bs16
+
+Example 3
+Sentence 1: The AFL-CIO is waiting until October to decide if it will endorse a candidate .
+Sentence 2: The AFL-CIO announced Wednesday that it will decide in October whether to endorse a candidate before the primaries .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 5
+Sentence 1: Wal-Mart said it would check all of its million-plus domestic workers to ensure they were legally employed .
+Sentence 2: It has also said it would review all of its domestic employees more than 1 million to ensure they have legal status .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 7
+Sentence 1: This integrates with Rational PurifyPlus and allows developers to work in supported versions of Java , Visual C # and Visual Basic .NET.
+Sentence 2: IBM said the Rational products were also integrated with Rational PurifyPlus , which allows developers to work in Java , Visual C # and VisualBasic .Net.
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 8
+Sentence 1: The top rate will go to 4.45 percent for all residents with taxable incomes above $ 500,000 .
+Sentence 2: For residents with incomes above $ 500,000 , the income-tax rate will increase to 4.45 percent .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 13
+Sentence 1: The only announced Republican to replace Davis is Rep. Darrell Issa of Vista , who has spent $ 1.71 million of his own money to force a recall .
+Sentence 2: So far the only declared major party candidate is Rep. Darrell Issa , a Republican who has spent $ 1.5 million of his own money to fund the recall .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 15
+Sentence 1: Unable to find a home for him , a judge told mental health authorities they needed to find supervised housing and treatment for DeVries somewhere in California .
+Sentence 2: The judge had told the state Department of Mental Health to find supervised housing and treatment for DeVries somewhere in California .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 24
+Sentence 1: Saddam loyalists have been blamed for sabotaging the nation 's infrastructure , as well as frequent attacks on U.S. soldiers .
+Sentence 2: Hussein loyalists have been blamed for sabotaging the nation 's infrastructure and attacking US soldiers .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 25
+Sentence 1: Its closest living relatives are a family frogs called sooglossidae that are found only in the Seychelles in the Indian Ocean .
+Sentence 2: Its closest relative is found in the Seychelles Archipelago , near Madagascar in the Indian Ocean .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 28
+Sentence 1: He said they lied on a sworn affidavit that requires them to list prior marriages .
+Sentence 2: Morgenthau said the women , all U.S. citizens , lied on a sworn affidavit that requires them to list prior marriages .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 29
+Sentence 1: The association said 28.2 million DVDs were rented in the week that ended June 15 , compared with 27.3 million VHS cassettes .
+Sentence 2: The Video Software Dealers Association said 28.2 million DVDs were rented out last week , compared to 27.3 million VHS cassettes .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 32
+Sentence 1: Mr Annan also warned the US should not use the war on terror as an excuse to suppress " long-cherished freedoms " .
+Sentence 2: Annan warned that the dangers of extremism after September 11 should not be used as an excuse to suppress " long-cherished " freedoms .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 33
+Sentence 1: At community colleges , tuition will jump to $ 2,800 from $ 2,500 .
+Sentence 2: Community college students will see their tuition rise by $ 300 to $ 2,800 or 12 percent .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 34
+Sentence 1: He made a point of saying during Tuesdays debate that the Confederate flag was a racist symbol .
+Sentence 2: Though Dean made a point of saying during the debate that the Confederate flag is a racist symbol .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 38
+Sentence 1: Per-user pricing is $ 29 for Workplace Messaging , $ 89 for Team Collaboration and $ 35 for Collaborative Learning .
+Sentence 2: Workplace Messaging is $ 29 , Workplace Team Collaboration is $ 89 , and Collaborative Learning is $ 35 .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 41
+Sentence 1: Authorities had no evidence to suggest the two incidents were connected .
+Sentence 2: There was no immediate evidence that the two incidents were connected , police said .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 45
+Sentence 1: Rumsfeld , who has been feuding for two years with Army leadership , passed over nine active-duty four-star generals .
+Sentence 2: Rumsfeld has been feuding for a long time with Army leadership , and he passed over nine active-duty four-star generals .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 46
+Sentence 1: Consumers who said jobs are difficult to find jumped from 29.4 to 32.6 , while those claiming work was plentiful slipped from 13 to 12.6 .
+Sentence 2: Consumers who said jobs are difficult to find jumped to 32.6 from 29.4 , while those saying work was plentiful slipped to 12.6 from 13 in April .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 48
+Sentence 1: " I think it happened very quickly , " Houston Police Department homicide investigator Phil Yochum said of the crime .
+Sentence 2: " I think it happened very quickly , " said Investigator Phil Yochum of the Houston Police Department 's homicide division .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 49
+Sentence 1: United issued a statement saying it will " work professionally and cooperatively with all its unions . "
+Sentence 2: Senior vice president Sara Fields said the airline " will work professionally and cooperatively with all our unions . "
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 50
+Sentence 1: " But they never climb out of the pot of beer again . "
+Sentence 2: It 's just that they never climb out of the beer again . "
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 51
+Sentence 1: Chief financial officer Andy Bryant has said that hike had a greater affect volume than officials expected .
+Sentence 2: Bryant has said that hike had a greater effect on demand than officials expected .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 52
+Sentence 1: Robert Liscouski , the Assistant Secretary of Homeland Security for Infrastructure Protection , will oversee NCSD .
+Sentence 2: NCSD 's chief will be Robert Liscouski , the assistant secretary of Homeland Security for Infrastructure Protection .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 53
+Sentence 1: HP 's shipments increased 48 percent year-over-year , compared to an increase of 31 percent for Dell .
+Sentence 2: HPs shipments increased 48 per cent year-on-year , compared to an increase of 31 per cent for Dell .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 54
+Sentence 1: Chirac , who can pardon a law-breaker , refused Humbert 's request last year but kept in close touch with the family .
+Sentence 2: Chirac , who has the authority to pardon law-breakers , refused Humbert 's request to be allowed to die last year but kept in close touch with the family .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 55
+Sentence 1: The charges allege that he was part of the conspiracy to kill and kidnap persons in a foreign country .
+Sentence 2: The government now charges that Sattar conspired with Rahman to kill and kidnap individuals in foreign countries .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 56
+Sentence 1: In the 2002 study , the margin of error ranged from 1.8 to 4.4 percentage points .
+Sentence 2: It has a margin of error of plus or minus three to four percentage points .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 57
+Sentence 1: Mr. Clinton 's national security adviser , Sandy Berger , said that the White House wasn 't informed of the FBI activities .
+Sentence 2: Clinton ’ s national security adviser , Sandy Berger , said in an interview that the White House was not informed of the FBI activities .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 58
+Sentence 1: " This decision is clearly incorrect , " FTC Chairman Timothy Muris said in a written statement .
+Sentence 2: The decision is " clearly incorrect , " FTC Chairman Tim Muris said .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 59
+Sentence 1: Prosecutors allege that Nichols and co-conspirator Timothy McVeigh worked together to prepare a bomb that destroyed the Alfred P. Murrah Federal Building .
+Sentence 2: Prosecutors allege that Nichols and coconspirator Timothy McVeigh worked together to prepare a 4,000-pound fuel-and-fertilizer bomb that destroyed the Murrah building .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 61
+Sentence 1: Secretary of State Colin Powell designated the Chechen leader believed responsible for last year 's hostage standoff in a Moscow theater as a threat to U.S. security Friday .
+Sentence 2: U.S. Secretary of State Colin Powell on Friday designated Chechen rebel leader Shamil Basayev a threat to the security of the United States and to U.S. citizens .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 62
+Sentence 1: " Today , we are trying to convey this problem to Russian President Vladimir Putin and US President George W Bush . "
+Sentence 2: " Today , we are trying to convey this problem to Russian President Vladimir Putin ( news - web sites ) and President Bush ( news - web sites ) . "
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 63
+Sentence 1: That would be a potential setback to Chief Executive Phil Condit 's strategy of bolstering defense-related sales during a slump in jetliner deliveries .
+Sentence 2: The inquiry may hinder Chief Executive Phil Condit 's strategy of bolstering defense-related sales during a slump in jetliner deliveries .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 64
+Sentence 1: PeopleSoft also said its board had officially rejected Oracle 's offer .
+Sentence 2: Thursday morning , PeopleSoft 's board rejected the Oracle takeover offer .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 69
+Sentence 1: The rate of skin cancer has tripled since the 1950s in Norway and Sweden , according to the study .
+Sentence 2: The study also found that skin cancer nearly tripled in Norway and Sweden since the 1950s .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 71
+Sentence 1: Trans fat makes up only 1 percent to 3 percent of the total fat Americans consume , compared with 14 percent for saturated fat .
+Sentence 2: Trans fat accounts for 2.5 percent of Americans ' daily calories , compared to 11 percent to 12 percent for saturated fat .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 73
+Sentence 1: Peterson , 31 , is now charged with murder in the deaths of his 27-year-old wife and their unborn son .
+Sentence 2: Peterson , 31 , is charged with two counts of first-degree murder in the slayings of his wife , Laci , and their unborn son , Conner .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 74
+Sentence 1: Carlson on Tuesday said he would not recuse himself from the case .
+Sentence 2: Service officials said Carlson refused to recuse himself from the case .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 75
+Sentence 1: The program will grow to include ports in Dubai , Turkey and Malaysia , among others .
+Sentence 2: The program will be expanded to include areas of the Middle East such as Dubai , Turkey and Malaysia , Mr. Ridge said .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 77
+Sentence 1: The woman was exposed to the SARS virus while in the hospital but was not a health care worker , said Dr. Colin D ’ Cunha , Ontario ’ s commissioner of public health .
+Sentence 2: The woman was exposed to the SARS virus while in the hospital but was not a health-care worker , said Dr Colin D 'Cunha , Ontario 's commissioner of public health .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 78
+Sentence 1: He added that those " are not solely American principles , nor are they exclusively Western . "
+Sentence 2: " These are not solely American principles nor are they exclusively Western , " Rumsfeld said .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 79
+Sentence 1: " If we don 't march into Tehran , I think we will be in pretty good shape , " he said .
+Sentence 2: " As long as we don 't march on Tehran , I think we are going to be in pretty good shape , " he said .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 81
+Sentence 1: Chad Kolton , emergency management spokesman with the Department of Homeland Security , said the government is open to new technologies and methods to communicate more quickly and efficiently .
+Sentence 2: Chad Kolton , emergency management spokesman with the Department of Homeland Security , said the government is open to new ways to communicate .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 82
+Sentence 1: " APEC leaders are painfully aware that security and prosperity are inseparable , " Thai Prime Minister Thaksin Shinawatra told business leaders .
+Sentence 2: " APEC leaders are painfully aware that security and prosperity are inseparable , " Thaksin said .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 84
+Sentence 1: Wittig resigned last year after being indicted on federal bank fraud charges involving a real estate loan unrelated to Westar business .
+Sentence 2: Wittig resigned in late November about two weeks after being indicted on bank fraud charges in a real estate case unrelated to the company .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 86
+Sentence 1: He was arrested Friday night at an Alpharetta seafood restaurant while dining with his wife , singer Whitney Houston .
+Sentence 2: He was arrested again Friday night at an Alpharetta restaurant where he was having dinner with his wife .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 88
+Sentence 1: University of Michigan President Mary Sue Coleman said in a statement on the university 's Web site , " Our fundamental values haven 't changed .
+Sentence 2: " Our fundamental values haven 't changed , " Mary Sue Coleman , president of the university , said in a statement in Ann Arbor .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 91
+Sentence 1: Michel , who remains in the government , denied that US pressure had provoked the government 's move .
+Sentence 2: Michel , who has stayed in the new government , denied that it was U.S. pressure which had provoked the government 's move .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 92
+Sentence 1: Some of the computers also are used to send spam e-mail messages to drum up traffic to the sites .
+Sentence 2: Some are also used to send spam e-mail messages to boost traffic to the sites .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 95
+Sentence 1: Later this year , the command will send trainers with soldiers from four North African nations on patrolling and intelligence gathering missions .
+Sentence 2: This fall the command will send trainers to work with soldiers from four North African nations on patrolling and gathering intelligence .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 97
+Sentence 1: Sales for the quarter beat expectations , rising 37 percent year-on-year to 1.76 billion euros .
+Sentence 2: Sales rose 37 per cent year-on-year to 1.76bn , beating expectations .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 98
+Sentence 1: If the MTA 's appeal to a higher court is successful , the $ 2 bus and subway base fare won 't be rolled back .
+Sentence 2: If the MTA 's appeal is successful , the $ 2 bus and subway base fare won 't change .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 99
+Sentence 1: Robert Walsh , 40 , remained in critical but stable condition Friday at Staten Island University Hospital 's north campus .
+Sentence 2: Walsh , also 40 , was in critical but stable condition at Staten Island University Hospital last night .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 100
+Sentence 1: The Guru microcontroller serves four functions : hardware monitoring , overclocking management , BIOS ( Basic Input Output System ) update and a troubleshooting-assistance feature called Black Box .
+Sentence 2: The µGuru microcontroller serves four functions : hardware monitoring , overclocking management , BIOS update and a troubleshooting-assistance feature called Black Box .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 102
+Sentence 1: The company said it would issue revised guidance for the full fiscal year next month when it releases its Q2 results .
+Sentence 2: The company said it would renew its guidance for 2003 when it announces its second quarter results in mid-July .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 103
+Sentence 1: " I stand 100 percent by it , and I think our intelligence services gave us the correct information at the time . "
+Sentence 2: I stand 100 percent by it , and I think that our intelligence services gave us the correct intelligence and information at the time , " Blair said .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 105
+Sentence 1: " I think it 's going to be a close vote , but I think the grant proposal is going to win , " McConnell said .
+Sentence 2: " I think it 's going to be a close vote , but I think the grant proposal 's going to win , " said Sen. Mitch McConnell , assistant majority leader .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 106
+Sentence 1: Twenty-eight people were believed to have been spending Christmas Day with the caretaker of the St Sophia 's camp , when the mudslide smashed into two cabins .
+Sentence 2: Twenty-seven people were believed to have been spending Christmas Day with the caretaker of Saint Sophia Camp , a Greek Orthodox facility , when the mudslide roared through .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 109
+Sentence 1: " There is no conscious policy of the United States , I can assure you of this , to move the dollar at all , " he said .
+Sentence 2: He also said there is no conscious policy by the United States to move the value of the dollar .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 110
+Sentence 1: It 's the first such drill since the September 11 terrorist attacks on New York and Washington .
+Sentence 2: It is the nation 's first large-scale counterterrorism exercise since the Sept . 11 terrorist attacks .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 112
+Sentence 1: According to the Merchant Marine Ministry , the 37-year-old ship is registered to Alpha Shipping Inc. based in the Pacific Ocean nation of Marshall Islands .
+Sentence 2: The Baltic Sky is a 37-year-old ship registered to Alpha Shipping Inc. based in the Pacific Ocean nation of Marshall Islands .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 116
+Sentence 1: Waiting crowds filling the streets on both sides overwhelmed the peacekeepers soon after daylight , sweeping past the barbed wire barricades .
+Sentence 2: But waiting crowds filling the streets rushed the bridges soon after daylight , overrunning razor-wire barricades .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 118
+Sentence 1: By skirting the FDA 's oversight , Eagan said , the quality of the imported drugs is " less predictable " than for those obtained in the United States .
+Sentence 2: By skirting the FDA 's oversight , Eagan said the quality of the imported drugs is " less predictable " than U.S. drugs .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 119
+Sentence 1: He said : " For the first time there is an easy and affordable way of making this treasure trove of BBC content available to all . "
+Sentence 2: " For the first time , there is an easy and affordable way of making this treasure trove of BBC content available to all , " Dyke said .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 120
+Sentence 1: Three such vigilante-style attacks forced the hacker organizer , who identified himself only as " Eleonora [ 67 ] , " to extend the contest until 7 p.m. EST Sunday .
+Sentence 2: Three such vigilante-style attacks forced the hacker organiser , who identified himself only as " Eleonora67 ] , " to extend the contest until 8am ( AEST ) today .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 121
+Sentence 1: Eric Gagne pitched a perfect ninth for his 23rd save in as many opportunities .
+Sentence 2: Gagne struck out two in a perfect ninth inning for his 23rd save .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 123
+Sentence 1: " Allison just proves you don 't need to wait until August or September to have a disaster , " said Josh Lichter , a meteorologist with the Houston-Galveston weather office .
+Sentence 2: " Allison just proves you don 't need to wait until August or September to have a disaster , " Lichter said .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 125
+Sentence 1: Police say CIBA was involved in the importation of qat , a narcotic substance legal in Britain but banned in the United States .
+Sentence 2: Mr McKinlay said that CIBA was involved in the importation of qat , a narcotic substance legal in Britain but banned in the US .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 126
+Sentence 1: Chiron already has nearly 20 percent acceptances from PowderJect 's shareholders .
+Sentence 2: Chiron has acceptances from holders of nearly 20 percent of PowderJect shares .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 129
+Sentence 1: No company employee has received an individual target letter at this time .
+Sentence 2: She said no company official had received " an individual target letter at this time . "
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 132
+Sentence 1: Worldwide , more than 50 million people have seen " Les Miz , " with gross receipts of $ 1.8 billion .
+Sentence 2: Worldwide , Les Misérables has been seen by over 50 million people , with a total gross of over $ 2 billion .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 134
+Sentence 1: " Overwhelmingly the Windows brand really resonated with them . "
+Sentence 2: " Windows was the part of the experience that really resonated with people . "
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 135
+Sentence 1: The Centers for Medicare and Medicaid Services , the federal agency that runs Medicare , last year began a similar effort for nursing homes .
+Sentence 2: The Centers for Medicare and Medicaid launched a similar consumer tool for nursing homes last year .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 143
+Sentence 1: " The risk of inflation becoming undesirably low remains the predominant concern for the foreseeable future , " the Fed said in a statement accompanying the unanimous decision .
+Sentence 2: " The risk of inflation becoming undesirably low remains the predominant concern for the foreseeable future , " the policy-setting Federal Open Market Committee said .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 147
+Sentence 1: He added : ``I 've never heard of more reprehensiblebehaviour by a doctor .
+Sentence 2: The Harrisons ’ lawyer Paul LiCalsi said : “ I ’ ve never heard of more reprehensible behaviour by a doctor .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 148
+Sentence 1: Broomhead was assigned to 2nd Squadron , 3rd Armor Cavalry Regiment , based at Fort Carson .
+Sentence 2: Broomhead , 34 , was assigned to the 2nd Squadron , 3rd Armored Cavalry Regiment .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 149
+Sentence 1: Other staff members , however , defended the document , saying it would still help policy-makers and the agency improve efforts to address the climate issue .
+Sentence 2: Some E.P.A. staff members defended the document , saying that although pared down it would still help policy makers and the agency address the climate issue .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 152
+Sentence 1: " He may not have been there , " the defence official said on Thursday .
+Sentence 2: " He may not have been there , " said a defence official speaking on condition of anonymity .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 156
+Sentence 1: " This deal makes sense for both companies , " said National Chief Executive Brian Halla .
+Sentence 2: " This deal makes sense for both companies , " Halla said in a prepared statement .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 159
+Sentence 1: Spansion products are to be available from both AMD and Fujitsu , AMD said .
+Sentence 2: Spansion Flash memory solutions are available worldwide from AMD and Fujitsu .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 160
+Sentence 1: About 1,500 police will be deployed for the visit .
+Sentence 2: Around 1,500 police are to be deployed at Niigata for the ferry 's visit .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 161
+Sentence 1: Gamarekian told The News she remembers only the woman 's first name - and refused to reveal it .
+Sentence 2: She told the New York Daily News she remembers only the intern 's first name , which she refused to reveal .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 163
+Sentence 1: A nationally board certified teacher with a master 's degree , Kelley makes a salary of $ 65,000 in his 30th year .
+Sentence 2: A nationally board certified teacher with a master 's degree , Kelley , in his 30th year teaching , makes $ 65,000 .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 164
+Sentence 1: A man arrested for allegedly threatening to shoot and kill a city councilman from Queens was ordered held on $ 100,000 bail during an early morning court appearance Saturday .
+Sentence 2: The Queens man arrested for allegedly threatening to shoot City Councilman Hiram Monserrate was held on $ 100,000 bail Saturday , a spokesman for the Queens district attorney said .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 166
+Sentence 1: Ms Stewart , the chief executive , was not expected to attend .
+Sentence 2: Ms Stewart , 61 , its chief executive officer and chairwoman , did not attend .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 168
+Sentence 1: The Justice Department Aug. 19 gave pre-clearance for the Oct. 7 date for the election to recall Gov. Gray Davis , saying it would not affect minority voting rights .
+Sentence 2: The Justice Department on Aug. 19 sanctioned the Oct. 7 date for recall election , saying it would not affect voting rights .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 172
+Sentence 1: A recent poll showed Edwards with a narrow lead in South Carolina , and he plans a rally there later on Tuesday .
+Sentence 2: A recent poll showed Edwards in a virtual four-way tie at the top in South Carolina , and he plans a rally there later on Tuesday .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 173
+Sentence 1: November 17 's last victim was British defence attache Stephen Saunders , who was shot on an Athens road in June 2000 .
+Sentence 2: November 17 's last victim was British defense attache Stephen Saunders , who was shot and killed at point-blank range on a busy Athens road in June 2000 .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 175
+Sentence 1: Zulifquar Ali , a worshipper slightly wounded by shrapnel , said the assailants first targeted the mosque 's security guards .
+Sentence 2: Witness Zulfiqar Ali , who was slightly wounded by shrapnel , said the attackers had focused on the mosque 's guards .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 176
+Sentence 1: For the second year in a row , rises in hospital costs accounted for much of the inflation , accounting for 51 percent of the overall cost increase .
+Sentence 2: For the second year in a row , rises in hospital costs dominated the increase , accounting for 51 percent of the overall cost spiral .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 178
+Sentence 1: The airline also said it has the option to buy 380 more airplanes , orders that would be split evenly between the two manufacturers .
+Sentence 2: The airline has the option to buy 380 more , split evenly between the two manufacturers .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 179
+Sentence 1: Dr Mark McClean , Jonathan 's family doctor , said if the drug had been administered earlier Jonathan would have retained more of his brain functions .
+Sentence 2: Dr Mark McClean , the family 's GP , said had the drug been administered to Jonathan earlier , he would have retained more of his brain function .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 185
+Sentence 1: Justice Minister Martin Cauchon and Prime Minister Jean Chrétien have both said the Liberal government will introduce legislation soon to decriminalize possession of small amounts of pot for personal use .
+Sentence 2: Justice Minister Martin Cauchon and Prime Minister Jean Chretien both have said the government will introduce legislation to decriminalize possession of small amounts of pot .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 189
+Sentence 1: While the Ibrahims had one separation operation , Goodrich and Dr. David Staffenberg plan about three for the Aguirres , with several weeks between each .
+Sentence 2: Instead of one long operation to separate the twins , Goodrich and Dr. David Staffenberg plan about three , with several weeks between each .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 190
+Sentence 1: Lay had contended that turning over the documents would violate his Fifth Amendment right against self-incrimination .
+Sentence 2: Lay had refused to turn over the papers , asserting his Fifth Amendment right against self-incrimination .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 192
+Sentence 1: Nearly 300 mutinous troops who seized a Manila shopping and apartment complex demanding the government resign gave up and retreated peacefully after some 19 hours .
+Sentence 2: Mutinous troops who seized a Manila shopping and apartment complex demanding the government resign ended a 19-hour standoff late Sunday and returned to barracks without a shot fired .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 193
+Sentence 1: In three years , Lend Lease has slipped from a top-five stock , when its share price was around $ 24 , to 37th .
+Sentence 2: In the space of three years , Lend Lease has slipped from a top-five 5 stock when its share price hovered around $ 24 to 37th on the list .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 195
+Sentence 1: Columbia broke up over Texas upon re-entry on Feb. 1 .
+Sentence 2: Columbia broke apart in the skies above Texas on Feb. 1 .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 196
+Sentence 1: A year or two later , 259 , or 10 per cent , of the youths reported that they had started to smoke , or had taken just a few puffs .
+Sentence 2: Within two years , 259 , or 10 percent , of the youths reported they had started to smoke or had at least taken a few puffs .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 198
+Sentence 1: Cindy Yeast , a 50-year-old Washington-area publicist , says she began taking supplements two years ago in part to avoid mild dementia that affects her elderly parents .
+Sentence 2: She started taking supplements two years ago - partly to stave off mild dementia that affects her elderly parents .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 199
+Sentence 1: The two are not related , but have referred to each other as father and son .
+Sentence 2: He 's not related to Malvo , but the two have referred to each other as father and son .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 200
+Sentence 1: Gibson said last month in a press statement that " neither I nor my film are anti-Semitic .
+Sentence 2: Gibson said in a June statement that he and his film are not anti-Semitic .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 202
+Sentence 1: The Dow Jones industrial average .DJI ended up 64.64 points , or 0.71 percent , at 9,191.09 , according to the latest available data .
+Sentence 2: The blue-chip Dow Jones industrial average .DJI added 38 points , or 0.42 percent , to 9,165 .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 203
+Sentence 1: The vote came just two days after Kurds swept City Council elections , taking the largest single block of votes on the 30-seat council .
+Sentence 2: The vote for mayor followed City Council elections that gave Kurds the largest block of votes on the 30-seat council .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 204
+Sentence 1: Large swells and dangerous surf already were being felt along sections of the coast .
+Sentence 2: Already large swells and dangerous surf have arrived along the mid-Atlantic .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 206
+Sentence 1: " We will work with the board to ensure a smooth transition . "
+Sentence 2: He said federal regulators would work with the corporation to ensure a " smooth transition . "
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 207
+Sentence 1: Gasps could be heard in the courtroom when the photo was displayed .
+Sentence 2: Gasps could be heard as the photo was projected onto the screen .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 211
+Sentence 1: Sen. Patrick Leahy of Vermont , the committee 's senior Democrat , later said the problem is serious but called Hatch 's suggestion too drastic .
+Sentence 2: Sen. Patrick Leahy , the committee 's senior Democrat , later said the problem is serious but called Hatch 's idea too drastic a remedy to be considered .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 212
+Sentence 1: The broad Standard & Poor 's 500 < .SPX > eased 0.37 of a point , or 0.03 percent , at 1,121 .
+Sentence 2: The Standard & Poor 's 500 Index < .SPX > slipped 0.26 point , or 0.02 percent , to 1,121.96 .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 215
+Sentence 1: We firmly believe we have an absolute right to use the common word ' spike ' as the name of our network . "
+Sentence 2: We firmly believe that we have an absolute right to use the common word ' spike ' to name our network .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 216
+Sentence 1: Sources who knew of the bidding said last week that cable TV company Comcast Corp. was also looking at VUE .
+Sentence 2: Late last week , sources told Reuters cable TV company Comcast Corp. CMCSA.O also was looking at buying VUE assets .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 217
+Sentence 1: But MTA officials appropriated the money to the 2003 and 2004 budgets without notifying riders or even the MTA board members considering the 50-cent hike , Hevesi found .
+Sentence 2: MTA officials appropriated the surplus money to later years ' budgets without notifying riders or the MTA board members when the 50-cent hike was being considered , he said .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 219
+Sentence 1: About 10 percent of high school and 16 percent of elementary students must be proficient at math .
+Sentence 2: In math , 16 percent of elementary and middle school students and 9.6 percent of high school students must be proficient .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 220
+Sentence 1: The legal ruling follows three days of intense speculation Hewlett-Packard Co. may be bidding for the company .
+Sentence 2: The legal ruling follows three days of wild volatility in RIM 's stock over speculation that PC giant Hewlett-Packard Co. may be bidding for the company .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 221
+Sentence 1: The European Commission , the EU 's antitrust enforcer , is expected to issue its decision next spring — unless a settlement is reached .
+Sentence 2: The European Commission is expected to issue its decision in the case next spring — unless a settlement is reached .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 222
+Sentence 1: " So Sebastian did his best to convincingly confess to a crime that he didn 't commit in order to survive , " she told jurors .
+Sentence 2: " Sebastian did his best to confess convincingly to a crime he didn 't do in order to survive , " Ms. Richardson declared .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 224
+Sentence 1: He is charged in three bombings in Atlanta including a blast at the 1996 Olympics and one in Alabama .
+Sentence 2: He is charged in three bombings in Atlanta - including a blast at the 1996 Olympics - along with the bombing in Alabama .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 225
+Sentence 1: The men were remanded in custody and are due to appear again before court on July 8 .
+Sentence 2: They were remanded in custody and will appear in court again on July 8 .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 226
+Sentence 1: " No matter who becomes the sponsor for stock-car racing 's top series , NASCAR will need an all-star event , " Wheeler said in a statement .
+Sentence 2: No matter who becomes the sponsor for stock-car racings top series , NASCAR will need an all-star event , Wheeler said Tuesday .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 227
+Sentence 1: The Phillies were upset that Counsell had stolen second in the sixth inning with Arizona leading 7-1 .
+Sentence 2: The Phillies were apparently upset when Counsell stole during the sixth with the Diamondbacks up 7-1 .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 228
+Sentence 1: He said his hatred for such people grew from these discussions and had helped convince him violence was the answer .
+Sentence 2: His hatred for these people had germinated from these discussions and helped cement his belief that violence was the panacea .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 229
+Sentence 1: " There is no need for one deadline for all to create the ASEAN Economic Community , " Thaksin said .
+Sentence 2: Thus , he said , there did not have to one deadline to create the economic community .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 230
+Sentence 1: The announcement was made during the recording of a Christmas concert attended by top Vatican cardinals , bishops , and many elite from Italian society , witnesses said .
+Sentence 2: The broadside came during the recording on Saturday night of a Christmas concert attended by top Vatican cardinals , bishops and many elite of Italian society , witnesses said .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 231
+Sentence 1: The additional contribution brings total U.S. food aid to North Korea this year to 100,000 tonnes .
+Sentence 2: The donation of 60,000 tons brings the total of U.S. contributions for the year to 100,000 .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 232
+Sentence 1: Leon Williams ' body was found inside his third-floor apartment at 196 Bay St. , in Tompkinsville .
+Sentence 2: The dead man , Leon Williams , was found in his third-floor apartment .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 236
+Sentence 1: The announcement , which economists said was not a surprise , may be bittersweet for the millions of Americans without jobs .
+Sentence 2: Economists said the announcement was not a surprise , and politicians said it offered little comfort to the millions of Americans without jobs .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 240
+Sentence 1: Her father , Florin Cioaba , the king of Transylvania 's Gypsies , had her brought back and she was married against her will .
+Sentence 2: Her father , Roma King Florin Cioaba , had her brought back and she was promptly married against her will .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 242
+Sentence 1: Citigroup Inc . C.N , the world 's largest financial services company , on Wednesday promoted Marjorie Magner to chairman and chief executive of its global consumer group .
+Sentence 2: Citigroup ( C ) on Wednesday named Marjorie Magner chairman and chief executive of its colossal global consumer business .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 243
+Sentence 1: " They 've been in the stores for over six weeks , " says Carney .
+Sentence 2: The quarterlies usually stay in stores for between six to eight weeks , " Carney added .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 244
+Sentence 1: Let me just say this : the evidence that we have of weapons of mass destruction was evidence drawn up and accepted by the joint intelligence community .
+Sentence 2: " The evidence that we had of weapons of mass destruction was drawn up and accepted by the Joint Intelligence Committee , " he said .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 245
+Sentence 1: Ridge said no actual explosives or other harmful substances will be used .
+Sentence 2: Ridge said no real explosives or harmful devices will be used in the exercise .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 246
+Sentence 1: Thus far , Stewart 's company appears ready to stand behind her .
+Sentence 2: For now , the company 's management appears to be standing behind Stewart .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 248
+Sentence 1: There 's also a flaw that results because IE does not implement an appropriate block on a file download dialog box .
+Sentence 2: The second vulnerability is a result of IE not implementing a block on a file download dialog box .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 249
+Sentence 1: Another $ 100-million in savings will come from management layoffs and pay cuts .
+Sentence 2: The airline expects to save another $ 100-million a year through management layoffs and pay cuts .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 250
+Sentence 1: He called on Prime Minister John Howard to establish a royal commission on child sex abuse .
+Sentence 2: The Senate motion also called on Prime Minister John Howard to hold a royal commission into child sex abuse .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 252
+Sentence 1: Terri Schiavo , 39 , underwent the procedure at the Tampa Bay area hospice where she has been living for several years , said her father , Bob Schindler .
+Sentence 2: The tube was removed Wednesday from Terri Schiavo , 39 , at the Tampa Bay-area hospice where she has lived for several years .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 254
+Sentence 1: Toll , Australia 's second-largest transport company , last week offered NZ75 a share for Tranz Rail .
+Sentence 2: Toll last week offered to buy the company for NZ75c a share , or $ NZ158 million .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 256
+Sentence 1: Wal-Mart , the nation 's largest private employer , has expanded its antidiscrimination policy to protect gay and lesbian employees , company officials said Tuesday .
+Sentence 2: Wal-Mart Stores Inc . , the nation 's largest private employer , will now include gays and lesbians in its anti-discrimination policy , company officials said Wednesday .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 257
+Sentence 1: Metro , bus and local rail services in France 's four largest towns -- Paris , Lyon , Lille and Marseille -- were severely disrupted , Europe 1 radio reported .
+Sentence 2: Subway , bus and suburban rail services in France 's four largest cities -- Paris , Lyon , Lille and Marseille -- were severely disrupted , transport authorities said .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 258
+Sentence 1: In the undergraduate case , Rehnquist said the use of race was not " narrowly tailored " to achieve the university 's asserted interest in diversity .
+Sentence 2: Rehnquist wrote that the system was not narrowly tailored to achieve the interest in educational diversity .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 260
+Sentence 1: A landslide in central Chungchong province derailed a Seoul-bound train and 28 passengers were injured , television said .
+Sentence 2: In central Chungchong province , a landslide caused a Seoul-bound Saemaeul Express train to derail , injuring 28 people , local television said .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 262
+Sentence 1: But that amount would probably be impossible to pass in the Senate , where Republican moderates have refused to go above $ 350 billion .
+Sentence 2: Such an amount would probably be unable to summon a majority of the Senate , where Republican moderates have refused to go above $ 350 billion .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 263
+Sentence 1: In the clash with police , Lt. Mothana Ali said about 1,000 demonstrators had gone to the station demanding jobs .
+Sentence 2: In Baghdad , police Lieut . Mothana Ali said about 1,000 demonstrators arrived at the station demanding jobs .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 265
+Sentence 1: Committee approval , expected today , would set the stage for debate on the Senate floor beginning Monday .
+Sentence 2: That would clear the way for debate in the full Senate beginning on Monday .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 266
+Sentence 1: O 'Brien was charged with leaving the scene of a fatal accident , a felony .
+Sentence 2: Bishop Thomas O 'Brien , 67 , was booked on a charge of leaving the scene of a fatal accident .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 269
+Sentence 1: Quattrone lawyer John W. Keker said his client is innocent .
+Sentence 2: In a statement Monday , his lawyer John Keker said ``Frank Quattrone is innocent .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 272
+Sentence 1: Parson was charged with intentionally causing and attempting to cause damage to protected computers .
+Sentence 2: Parson is charged with one count of intentionally causing damage to a protected computer .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 273
+Sentence 1: " The court and the public need to know much more of the details of the defendant 's seemingly massive fraud , " the judge said .
+Sentence 2: " The court and the public need to know more of the defendants ' seemingly massive fraud , " he said .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 274
+Sentence 1: The U.S. Supreme Court will hear arguments on Wednesday on whether companies can be sued under the Americans with Disabilities Act for refusing to rehire rehabilitated drug users .
+Sentence 2: The high court will hear arguments today on whether companies can be sued under the ADA for refusing to rehire rehabilitated drug users .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 276
+Sentence 1: " More than 70,000 men and women from bases in Southern California were deployed in Iraq .
+Sentence 2: In all , more than 70,000 troops based in Southern California were deployed to Iraq .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 277
+Sentence 1: BP shares slipped 0.8 percent to 433.50 pence ( $ 6.85 ) each in afternoon trading on the London Stock Exchange .
+Sentence 2: BP shares slipped 48 cents to $ 41.72 Friday in trading on the New York Stock Exchange .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 278
+Sentence 1: Because of the accounting charge , the company now says it lost $ 1.04 billion , or 32 cents a share , in the quarter ended June 30 .
+Sentence 2: Including the charge , the Santa Clara , Calif.-based company said Monday it lost $ 1.04 billion , or 32 cents per share , in the period ending June 30 .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 280
+Sentence 1: Federal Emergency Management Administration designated $ 20 million to establish the registry .
+Sentence 2: The registry was launched with $ 20 million from the Federal Emergency Management Agency .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 281
+Sentence 1: BREAST cancer cases in the UK have hit an all-time high with more than 40,000 women diagnosed with the disease each year , Cancer Re-search UK revealed yesterday .
+Sentence 2: Cases of breast cancer in Britain have reached a record high , with the number of women diagnosed with the disease passing the 40,000 mark for the first time .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 282
+Sentence 1: " It was never our intention to sell the product , " said Health Minister Anne McClellan , a skeptic of medical marijuana use .
+Sentence 2: " It was never the intention of us to sell product , " federal Health Minister Anne McLellan said yesterday in Edmonton .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 285
+Sentence 1: " We are committed to helping the Iraqi people get on the path to a free society , " Rumsfeld said in a speech to the Council on Foreign Relations .
+Sentence 2: " We are committed to helping the Iraqi people get on the path to a free society , " he said .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 286
+Sentence 1: Mr. Young said he was disappointed that the government didn 't see the severe acute respiratory syndrome crisis as worthy of federal disaster-relief money .
+Sentence 2: Young said he was disappointed the government didn 't see the SARS crisis as worthy of federal disaster relief money .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 288
+Sentence 1: In February 2000 , the officers — Kenneth Boss , Sean Carroll , Edward McMellon and Richard Murphy — were acquitted of all charges in the killing .
+Sentence 2: The officers -- Kenneth Boss , Sean Carroll , Edward McMellon and Richard Murphy -- were acquitted in 2000 of state murder charges .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 289
+Sentence 1: I was surprised it turned out me talking and the president just listening .
+Sentence 2: " I was surprised it turned out me talking and the president just listening . . . It was mostly a monologue . "
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 290
+Sentence 1: The state 's House delegation currently consists of 17 Democrats and 15 Republicans .
+Sentence 2: Democrats hold a 17-15 edge in the state 's U.S. House delegation .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 292
+Sentence 1: We 'll be listening carefully to the [ IAEA ] director general 's report at the next board meeting .
+Sentence 2: " We 'll be listening carefully to the ( IAEA ) director-general 's report at the next board meeting . "
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 293
+Sentence 1: In that position , Elias will report to Joe Tucci , president and CEO of EMC .
+Sentence 2: As executive vice president of new ventures , Elias will report to Joe Tucci , EMC 's president and chief executive .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 294
+Sentence 1: But with the PM due to leave tomorrow afternoon for personal reasons there was a risk he might not be present when the final decision was made .
+Sentence 2: But with the Prime Minister due to leave tomorrow , a day early , he may not be present when the final decision is made .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 298
+Sentence 1: Drax faced a financial crisis late last year after it lost its most lucrative sales contract , held with insolvent utility TXU Europe .
+Sentence 2: Drax ’ s troubles began late last year when it lost its most lucrative sales contract , with the insolvent utility TXU Europe .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 299
+Sentence 1: But I would rather be talking about high standards than low standards . "
+Sentence 2: " I would rather be talking about positive numbers rather than negative .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 300
+Sentence 1: It was not immediately known how many people were on flight UTA 141 , which could carry 141 passengers and crew .
+Sentence 2: It was still not known exactly how many people were on the plane , which could carry 141 passengers and crew .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 301
+Sentence 1: The market remains pinned in a narrow range after a powerful rally drove the broad Standard & Poor 's 500 index .SPX up more than 20 percent since mid-March .
+Sentence 2: The market remains pinned in a narrow range after a powerful rally pushed the broad S & P 500 index up more than 20 percent since mid-March .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 302
+Sentence 1: Witnesses said they believed the man planned to crash the Launceston-bound Qantas flight 1737 , which was carrying 47 passengers and six crew .
+Sentence 2: Witnesses believe he wanted to crash Flight 1737 , which had 47 passengers and six crew .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 303
+Sentence 1: As Samudra sat down to hear the indictment , he looked over to his nine lawyers and shouted ``God is Great ' ' three times .
+Sentence 2: As he sat down to hear the indictment , Samudra looked over to his nine lawyers and shouted " Takbir ! " , or " Proclaim ! " , a religious rallying cry .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 304
+Sentence 1: In hardest-hit Taipei , traffic has disappeared from once bustling streets , ubiquitous department stores stand mostly empty and restaurants are eerily quiet .
+Sentence 2: In hardest-hit Taipei , traffic has disappeared from once-bustling streets and department stores and restaurants are virtually empty .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 305
+Sentence 1: In a statement , Lee said he " no longer believes that Viacom deliberately intended to trade on my name when naming Spike TV . "
+Sentence 2: Spike Lee no longer believes that Viacom deliberately intended to trade on his name by calling its own venture " Spike TV , " according to a statement read in court Tuesday .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 311
+Sentence 1: Amazon.com shipped out more than a million copies of the new book , making Saturday the largest distribution day of a single item in e-commerce history .
+Sentence 2: Amazon.com shipped more than a million copies by Saturday afternoon , making Saturday the largest distribution day of a single item in e-commerce history .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 312
+Sentence 1: The show 's closure affected third-quarter earnings per share by a penny .
+Sentence 2: The company said this impacted earnings by a penny a share .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 316
+Sentence 1: Gov. Bob Riley proposed the budget cuts after Alabama voters rejected his $ 1.2 billion tax plan Sept . 9 .
+Sentence 2: After Alabama voters rejected his $ 1.2 billion tax plan Sept . 9 , Riley forecast significant cuts in state programs .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 317
+Sentence 1: " It is probably not the easiest time to come in and take over the shuttle program , but then again , I look forward to the challenge , " he said .
+Sentence 2: " It 's probably not the easiest time to come in and take over the shuttle program , but I look forward to the challenge , " Parsons told reporters at NASA headquarters .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 323
+Sentence 1: Sony said the PSP would also feature a 4.5-inch LCD screen , Memory Stick expansion slots .
+Sentence 2: It also features a 4.5 in back-lit LCD screen and memory expansion facilities .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 328
+Sentence 1: The opposition would resort to rolling mass action " at strategic times of our choice and without warning to the dictatorship , " he said .
+Sentence 2: " From now onwards we will embark on rolling mass action at strategic times of our choice and without any warning to the dictatorship , " he said .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 330
+Sentence 1: Tom Kraynak , manager of operations and resources for the Canton , Ohio-based East Central Area Reliability Council , said that scenario is one among many that investigators are considering .
+Sentence 2: Tom Kraynak , manager of operations and resources for the Canton , Ohio-based East Central Area Reliability Council , said investigators are considering the scenario .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 333
+Sentence 1: The hearing , expected to last a week , will determine whether Akbar faces a court-martial .
+Sentence 2: The purpose of the hearing is to determine whether Akbar should be court-martialled .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 335
+Sentence 1: Speaking for the first time yesterday , Brigitte 's maternal aunt said his family was unaware he had was in prison or that he had remarried .
+Sentence 2: Brigitte 's maternal aunt said his family was unaware he had been sent to prison , or that he had remarried in Sydney .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 340
+Sentence 1: Mr Russell , 46 , a coal miner from Brisbane , said : " They are obviously hurting , so we are basically going over there to help them . "
+Sentence 2: " They are obviously hurting so we are basically going over there to help them , " Russell , 46 , said .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 341
+Sentence 1: The New York Democrat and former first lady has said she will not run for the White House in 2004 , but has not ruled out a race in later years .
+Sentence 2: The former first lady has said she will not run for the White House in 2004 but has not ruled out a race later on .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 344
+Sentence 1: Donations stemming from the Sept . 11 attacks helped push up contributions to human service organizations and large branches of the United Way by 15 percent and 28.6 percent , respectively .
+Sentence 2: Donations stemming from the Sept . 11 attacks helped push up contributions to human service organizations by 15 percent and to large branches of the United Way by 28.6 percent .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 345
+Sentence 1: In May , Mr. Hatfill said he was struck by a vehicle being driven by an FBI employee who was tailing him in Georgetown .
+Sentence 2: Last May , Hatfill was struck by a vehicle being driven by an FBI employee who was tailing him in Washington 's Georgetown neighborhood .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 346
+Sentence 1: " I will support a constitutional amendment which would honor marriage between a man and a woman , codify that , " he said .
+Sentence 2: " If necessary , I will support a constitutional amendment which would honour marriage between a man and a woman , codify that . "
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 349
+Sentence 1: A former employee of a local power company pleaded guilty Wednesday to setting off a bomb that knocked out a power substation during the Winter Olympics last year .
+Sentence 2: A former Utah Power meter reader pleaded guilty Wednesday to bombing a power substation during the 2002 Winter Olympics .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 351
+Sentence 1: Judge Craig Doran said it wasn 't his role to determine if Hovan was " an evil man " but maintained that " he has committed an evil act . "
+Sentence 2: Judge Craig Doran said he couldn 't determine if Hovan was " an evil man " but said he " has committed an evil act . "
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 353
+Sentence 1: It also offers a built-in NAND flash boot loader so that high-density NAND flash memory can be used without having to install an additional support chip .
+Sentence 2: The S3C2440 has a built-in NAND flash boot loader , for example , so that high-density NAND flash memory can be installed without an additional support chip .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 356
+Sentence 1: It will be followed in November by a third movie , " The Matrix Revolutions . "
+Sentence 2: The film is the second of a trilogy , which will wrap up in November with " The Matrix Revolutions . "
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 357
+Sentence 1: Massachusetts regulators and the Securities and Exchange Commission on Tuesday pressed securities fraud charges against Putnam Investments and two of its former portfolio managers for alleged improper mutual fund trading .
+Sentence 2: State and federal securities regulators filed civil charges against Putnam Investments and two portfolio managers in the ever-expanding mutual fund trading scandal .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 358
+Sentence 1: He is blocking them until the Air Force assigns four additional C-130 cargo planes to Gowen Field , an Idaho Air National Guard base in Boise .
+Sentence 2: He is holding them up until the Air Force agrees to assign four additional C-130 cargo planes to the Idaho Air National Guard .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 359
+Sentence 1: Cisco pared spending to compensate for sluggish sales .
+Sentence 2: In response to sluggish sales , Cisco pared spending .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 361
+Sentence 1: My decision today is not based on any one event . "
+Sentence 2: Governor Rowland said his decision was " not based on any one event . "
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 364
+Sentence 1: Next Monday at about 2 p.m. ( CST ) , hospital officials in and near Chicago will notice a sudden increase in people complaining of flu-like symptoms .
+Sentence 2: Around the same time , hospital officials in and near Chicago will notice a sudden increase in people complaining of flu-like symptoms .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 365
+Sentence 1: Wal-Mart Stores Inc . , Kohl 's Corp. , Family Dollar Stores Inc. and Big Lots Inc. were among the merchants posting May sales that fell below Wall Street 's modest expectations .
+Sentence 2: Wal- Mart , Kohl 's Corp. , Family Dollar Stores Inc . , and Big Lots Inc. posted May sales that fell below Wall Street 's modest expectations .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 367
+Sentence 1: Peterson , a former fertilizer salesman , is charged with murder in the deaths of his 27-year-old wife and the baby boy she was carrying .
+Sentence 2: Peterson , 31 , is now charged with murder in the deaths of his 27-year-old wife and their unborn son .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 370
+Sentence 1: Detectives told Deasean 's father , Stelly Chisolm , a college student , and mother , Kimberly Hill , of the arrest shortly after Perry was apprehended .
+Sentence 2: Shortly after his arrest , detectives told Deasean 's father , Stelly Chisolm , a college student , and mother , Kimberly Hill , a medical assistant , about the development .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 373
+Sentence 1: Mr. Rowland attended a party in South Windsor for the families of Connecticut National Guard soldiers called to active duty .
+Sentence 2: Rowland was making an appearance at a holiday party for families of Connecticut National Guard soldiers assigned to duty in Iraq and Afghanistan .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 378
+Sentence 1: Blair 's Foreign Secretary Jack Straw was to take his place on Monday to give a statement to parliament on the European Union .
+Sentence 2: Blair 's office said his Foreign Secretary Jack Straw would take his place on Monday to give a statement to parliament on the EU meeting the prime minister attended last week .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 379
+Sentence 1: " There were more people surrounding the clubhouse than the Unabomber 's house up in the hills , " Baker said .
+Sentence 2: " There are more people surrounding the clubhouse than surrounded the Unabomber 's home in the hills .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 380
+Sentence 1: Charles O. Prince , 53 , was named as Mr. Weill 's successor .
+Sentence 2: Mr. Weill 's longtime confidant , Charles O. Prince , 53 , was named as his successor .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 383
+Sentence 1: The Midwestern research center will focus on the development of diagnostic , therapeutic and vaccine products for anthrax , botulism , tularemia , hemorrhagic fever viruses and plague .
+Sentence 2: The Midwestern center will focus on diagnosis , treatment and vaccines for anthrax , botulism , tularemia , hemorrhagic fever viruses and plague .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 384
+Sentence 1: The hearing is to determine whether there is enough evidence to order Akbar to a general court-martial proceeding .
+Sentence 2: The purpose of the hearing is to determine whether Akbar should be court-martialled .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 386
+Sentence 1: Ninety-five percent of international cargo to the United States is carried by ship .
+Sentence 2: Ships carry 95 percent of international cargo to the United States .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 391
+Sentence 1: But software license revenues , a measure financial analysts watch closely , decreased 21 percent to $ 107.6 million .
+Sentence 2: License sales , a key measure of demand , fell 21 percent to $ 107.6 million .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 392
+Sentence 1: King , brand-name writer , master of the horror story and e-book pioneer , is receiving this year 's medal for Distinguished Contributions to American Letters .
+Sentence 2: Stephen King , master of the horror story and e-book pioneer , is receiving this year 's medal for Distinguished Contributions to American Letters from the National Book Foundation .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 394
+Sentence 1: The steel tariffs , which the U.S. president imposed in March 2002 , will officially end at midnight , instead of March 2005 as initially planned .
+Sentence 2: The U.S. steel tariffs , which Bush imposed in March 2002 , were to officially end at midnight Thursday ( 0500 GMT ) , instead of March 2005 as initially planned .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 395
+Sentence 1: Business Week 's online edition reported on Friday that WorldCom and the SEC could announce a settlement as early as Monday .
+Sentence 2: BusinessWeek Online has learned that the settlement could come as early as Monday , May 19 .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 397
+Sentence 1: Shares of Salix have rocketed 64 percent since Axcan made its first offer on April 10 .
+Sentence 2: Since the initial takeover offer , Salix shares have risen about 35 percent .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 398
+Sentence 1: The jury verdict , reached Wednesday after less than four hours of deliberation , followed a 2 week trial , during which Waagner represented himself .
+Sentence 2: The quick conviction followed a 2 1 / 2 week trial , during which the Venango County man represented himself .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 401
+Sentence 1: The company emphasized that McDonald 's USA does not import any raw beef or hamburger patties from Canada for McDonald 's use in the United States .
+Sentence 2: McDonald 's said in a statement that it does not import any raw beef or hamburger patties from Canada for use in the United States .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 402
+Sentence 1: Gregory Parseghian , a former investment banker , was appointed chief executive .
+Sentence 2: Greg Parseghian was appointed the new chief executive .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 404
+Sentence 1: But plaque volume increased by 2.7 percent in pravastatin patients .
+Sentence 2: The volume of plaque in Pravachol patients ' arteries rose by 3 % .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
+Example 407
+Sentence 1: Ex-KGB agent Putin added that the Beatles were considered ' propaganda of an alien ideology ' .
+Sentence 2: In Soviet times the Beatles ' music " was considered propaganda of an alien ideology .
+Ground Truth: 1
+run_4_lr5e-05_bs16 Prediction (correct): 1
+run_3_lr2e-05_bs16 Prediction (wrong): 0
+--------------------------------------------------
