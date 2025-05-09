@@ -4,3 +4,4 @@ wandb>=0.19.10
 datasets>=3.5.1
 transformers>=4.51.3
 scikit-learn>=1.6.1
+accelerate>=0.26.0
